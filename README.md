@@ -1,435 +1,538 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=180&section=header&text=Mohamed%20Faisal&fontSize=42&fontColor=e2e8f0&animation=twinkling)
-
-![Profile Views](https://komarev.com/ghpvc/?username=mohamedfaisal-dev&label=Profile%20Views&color=0e7490&style=flat)
-
-<br>
-
-### 👋 Hi, I'm Mohamed Faisal
-
-**Junior Full Stack Developer** · **React Native Developer** · **AWS Serverless Developer** · **Open Source Enthusiast**
-
-*Building scalable web & mobile applications*
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Junior+Full+Stack+Developer;React+Native+%26+AWS+Serverless;Building+production-ready+apps;Open+Source+Enthusiast)](https://git.io/typing-svg)
-
-</div>
-
-<br>
-
----
-
-<br>
-
-## About Me
-
-```text
-┌─────────────────────────────────────────────────────────────────────┐
-│  Full Stack Developer passionate about building real-world products │
-│  with clean architecture, polished UI, and scalable cloud systems │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-- Build **production-ready** web and mobile applications
-- Love solving **real-world problems** with pragmatic engineering
-- Focus on **scalable architectures** — serverless, modular, maintainable
-- Care deeply about **clean UI/UX** and pixel-perfect interfaces
-- **Continuously learning** — always exploring better tools and patterns
-- Passionate about **cloud technologies** — AWS Lambda, API Gateway, DynamoDB
-- Passionate about **mobile development** — React Native, Expo, App Store releases
-
-<br>
-
-**Education:** B.Sc. Computer Science — Pondicherry University *(2026)*
-
-<br>
-
----
-
-<br>
-
-## Current Focus
-
-<div align="center">
-
-[![React Native](https://img.shields.io/badge/🚀_React_Native-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
-[![AWS Serverless](https://img.shields.io/badge/☁_AWS_Serverless-0f172a?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/serverless/)
-[![AI Assisted Development](https://img.shields.io/badge/⚡_AI_Assisted_Development-0f172a?style=for-the-badge&logo=openai&logoColor=38BDF8)](https://cursor.com/)
-
-<br>
-
-[![System Design](https://img.shields.io/badge/🧠_System_Design-0f172a?style=for-the-badge&logo=diagramsdotnet&logoColor=38BDF8)](https://github.com/mohamedfaisal-dev)
-[![Mobile Apps](https://img.shields.io/badge/📱_Mobile_Apps-0f172a?style=for-the-badge&logo=android&logoColor=3DDC84)](https://github.com/mohamedfaisal-dev)
-[![SaaS Products](https://img.shields.io/badge/🌐_SaaS_Products-0f172a?style=for-the-badge&logo=vercel&logoColor=FFFFFF)](https://github.com/mohamedfaisal-dev)
-
-</div>
-
-<br>
-
----
-
-<br>
-
-## Tech Stack
-
-### Frontend
-
-<div align="center">
-
-![React](https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,html,css&perline=7)
-
-</div>
-
-<br>
-
-### Backend
-
-<div align="center">
-
-![Node.js](https://skillicons.dev/icons?i=nodejs,express&perline=4)
-
-[![REST APIs](https://img.shields.io/badge/REST_APIs-0f172a?style=for-the-badge&logo=fastapi&logoColor=38BDF8)](https://github.com/mohamedfaisal-dev)
-
-</div>
-
-<br>
-
-### Mobile
-
-<div align="center">
-
-![Mobile](https://skillicons.dev/icons?i=react,expo,android,ios&perline=4)
-
-</div>
-
-<br>
-
-### Cloud
-
-<div align="center">
-
-[![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-0f172a?style=for-the-badge&logo=awslambda&logoColor=FF9900)](https://aws.amazon.com/lambda/)
-[![API Gateway](https://img.shields.io/badge/API_Gateway-0f172a?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/api-gateway/)
-[![DynamoDB](https://img.shields.io/badge/DynamoDB-0f172a?style=for-the-badge&logo=amazondynamodb&logoColor=527FFF)](https://aws.amazon.com/dynamodb/)
-[![Cognito](https://img.shields.io/badge/Cognito-0f172a?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/cognito/)
-[![S3](https://img.shields.io/badge/S3-0f172a?style=for-the-badge&logo=amazons3&logoColor=569A31)](https://aws.amazon.com/s3/)
-
-</div>
-
-<br>
-
-### Database
-
-<div align="center">
-
-![Database](https://skillicons.dev/icons?i=postgresql,dynamodb&perline=4)
-
-</div>
-
-<br>
-
-### Payments
-
-<div align="center">
-
-![Stripe](https://skillicons.dev/icons?i=stripe&perline=4)
-
-</div>
-
-<br>
-
-### CMS
-
-<div align="center">
-
-[![Sanity CMS](https://img.shields.io/badge/Sanity_CMS-0f172a?style=for-the-badge&logo=sanity&logoColor=F03E2F)](https://www.sanity.io/)
-
-</div>
-
-<br>
-
-### DevOps
-
-<div align="center">
-
-![DevOps](https://skillicons.dev/icons?i=git,githubactions,docker,vercel,netlify&perline=5)
-
-</div>
-
-<br>
-
-### AI Tools
-
-<div align="center">
-
-[![Cursor](https://img.shields.io/badge/Cursor-0f172a?style=for-the-badge&logo=cursor&logoColor=FFFFFF)](https://cursor.com/)
-[![Claude](https://img.shields.io/badge/Claude-0f172a?style=for-the-badge&logo=anthropic&logoColor=D4A574)](https://claude.ai/)
-[![Kiro](https://img.shields.io/badge/Kiro-0f172a?style=for-the-badge&logo=openai&logoColor=38BDF8)](https://kiro.dev/)
-
-</div>
-
-<br>
-
----
-
-<br>
-
-## GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/mohamedfaisal-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedfaisal-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/mohamedfaisal-dev">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=mohamedfaisal-dev&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=glass&color=gradient&customColorList=18,5E6AD2,6366F1,0A0A0B&height=200&section=header&text=Mohamed%20Faisal&fontSize=44&fontColor=F7F8F8&desc=Junior%20Full%20Stack%20Developer&descSize=18&descAlignY=72&descAlign=62" alt="header"/>
 
 <br><br>
 
-<a href="https://github.com/mohamedfaisal-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedfaisal-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&langs_count=8" alt="Top Languages"/>
-</a>
+<img src="https://github.com/mohamedfaisal-dev.png" width="110" style="border-radius: 50%; border: 2px solid #5E6AD2;" alt="Mohamed Faisal"/>
 
 <br><br>
 
-<a href="https://github.com/mohamedfaisal-dev">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedfaisal-dev&theme=2077" alt="Profile Summary" width="100%"/>
-</a>
+# Mohamed Faisal
+
+## Junior Full Stack Developer
+
+<br>
+
+React Native Developer · AWS Serverless Developer · Open Source Enthusiast
+
+<br>
+
+Building scalable web & mobile applications
 
 <br><br>
 
-<a href="https://github.com/mohamedfaisal-dev">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedfaisal-dev&theme=react&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true" alt="Activity Graph" width="100%"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohamedfaisal.dev-5E6AD2?style=flat&logo=googlechrome&logoColor=F7F8F8&labelColor=16161A)](https://mohamedfaisal.dev)
+[![Email](https://img.shields.io/badge/Email-Contact-6366F1?style=flat&logo=gmail&logoColor=F7F8F8&labelColor=16161A)](mailto:mohamedfaisal.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-5E6AD2?style=flat&logo=linkedin&logoColor=F7F8F8&labelColor=16161A)](https://linkedin.com/in/mohamed-faisal-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-mohamedfaisal--dev-6366F1?style=flat&logo=github&logoColor=F7F8F8&labelColor=16161A)](https://github.com/mohamedfaisal-dev)
 
 <br><br>
 
-<a href="https://github.com/mohamedfaisal-dev">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedfaisal-dev&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%"/>
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=mohamedfaisal-dev&label=Profile%20Views&color=5E6AD2&labelColor=16161A&style=flat)
 
 </div>
 
-<br>
+<br><br><br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:5E6AD2,100:16161A&height=56&section=header&text=About%20Me&fontSize=26&fontColor=F7F8F8" alt="about"/>
 
-<br>
+<br><br>
 
-## Featured Projects
+Full Stack Developer passionate about building **production-ready** products — clean architecture, refined UI, and scalable cloud systems.
 
-<br>
+<br><br>
+
+| | |
+|:--|:--|
+| **Production-Ready** | Ship battle-tested apps to App Store, Play Store & production web |
+| **Real-World Impact** | Payments, auth, notifications, SEO — solving business problems |
+| **Scalable Architecture** | Serverless AWS, modular APIs, maintainable codebases |
+| **Clean UI/UX** | Minimal, responsive, accessible interfaces |
+| **Continuous Learning** | AI-assisted development, system design, cloud-native patterns |
+| **Cloud & Mobile** | Lambda, DynamoDB, Cognito · React Native, Expo |
+
+<br><br>
+
+**Education** — B.Sc. Computer Science, Pondicherry University *(2026)*
+
+<br><br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6366F1,100:16161A&height=56&section=header&text=Current%20Focus&fontSize=26&fontColor=F7F8F8" alt="focus"/>
+
+<br><br>
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### ⭐ Xenbite
-
-Live React Native marketplace using **AWS Serverless**, **Stripe**, **DynamoDB**, **Cognito**, and **Node.js**. Fresh food & surplus meals platform with in-app wallet, referrals, and push notifications.
+<td align="center" width="33%">
 
 <br>
 
-[![React Native](https://img.shields.io/badge/React_Native-0f172a?style=flat-square&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
-[![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-0f172a?style=flat-square&logo=awslambda&logoColor=FF9900)](https://aws.amazon.com/lambda/)
-[![DynamoDB](https://img.shields.io/badge/DynamoDB-0f172a?style=flat-square&logo=amazondynamodb&logoColor=527FFF)](https://aws.amazon.com/dynamodb/)
-[![Cognito](https://img.shields.io/badge/Cognito-0f172a?style=flat-square&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/cognito/)
-[![Stripe](https://img.shields.io/badge/Stripe-0f172a?style=flat-square&logo=stripe&logoColor=635BFF)](https://stripe.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs&logoColor=339933)](https://nodejs.org/)
+**React Native**
 
 <br>
 
-[![Website](https://img.shields.io/badge/🌐_Website-xenbite.com-0f172a?style=for-the-badge)](https://xenbite.com)
-[![App Store](https://img.shields.io/badge/📱_App_Store-0f172a?style=for-the-badge&logo=apple&logoColor=FFFFFF)](https://apps.apple.com/gb/app/xenbite/id6762509915)
-[![Play Store](https://img.shields.io/badge/▶_Play_Store-0f172a?style=for-the-badge&logo=googleplay&logoColor=FFFFFF)](https://play.google.com/store/apps/details?id=com.akhlaqventures.xenbite.app)
+<sub>Cross-platform mobile with native performance</sub>
+
+<br><br>
 
 </td>
-<td width="50%" valign="top">
-
-### ⭐ RentalHub
-
-Property Management SaaS built using **Next.js**, **PostgreSQL**, **Tailwind CSS**, and **Node.js**. Full-featured rental platform with tenant management, invoicing, and analytics.
+<td align="center" width="33%">
 
 <br>
 
-[![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)](https://nextjs.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=4169E1)](https://www.postgresql.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=flat-square&logo=tailwindcss&logoColor=06B6D4)](https://tailwindcss.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs&logoColor=339933)](https://nodejs.org/)
+**AWS Serverless**
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/📂_GitHub-0f172a?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/mohamedfaisal-dev/Property-Management)
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-0f172a?style=for-the-badge&logo=vercel&logoColor=FFFFFF)](https://property-management-chrj.vercel.app/)
+<sub>Lambda, API Gateway, DynamoDB at scale</sub>
+
+<br><br>
+
+</td>
+<td align="center" width="33%">
+
+<br>
+
+**AI-Assisted Development**
+
+<br>
+
+<sub>Cursor, Claude & modern AI workflows</sub>
+
+<br><br>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### ⭐ AQSATECH
-
-Production website for a Dubai-based technical services company. Built with **Next.js**, **Tailwind CSS**, and **Sanity CMS** — SEO-optimized and fully responsive.
+<td align="center" width="33%">
 
 <br>
 
-[![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)](https://nextjs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=flat-square&logo=tailwindcss&logoColor=06B6D4)](https://tailwindcss.com/)
-[![Sanity CMS](https://img.shields.io/badge/Sanity_CMS-0f172a?style=flat-square&logo=sanity&logoColor=F03E2F)](https://www.sanity.io/)
+**System Design**
 
 <br>
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-0f172a?style=for-the-badge&logo=vercel&logoColor=FFFFFF)](https://aqsatech.ae)
+<sub>Resilient systems built for growth</sub>
+
+<br><br>
 
 </td>
-<td width="50%" valign="top">
-
-### ⭐ Jesko Jets
-
-Luxury aviation landing page with premium UI and responsive design. Features smooth animations, 3D elements, and a polished brand experience.
+<td align="center" width="33%">
 
 <br>
 
-[![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)](https://nextjs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=flat-square&logo=tailwindcss&logoColor=06B6D4)](https://tailwindcss.com/)
-[![GSAP](https://img.shields.io/badge/GSAP-0f172a?style=flat-square&logo=greensock&logoColor=88CE02)](https://gsap.com/)
-[![Framer Motion](https://img.shields.io/badge/Framer_Motion-0f172a?style=flat-square&logo=framer&logoColor=0055FF)](https://www.framer.com/motion/)
+**Mobile Apps**
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/📂_GitHub-0f172a?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/mohamedfaisal-dev/Clone-Jesko-jets)
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-0f172a?style=for-the-badge&logo=vercel&logoColor=FFFFFF)](https://clone-jesko-jets.vercel.app)
+<sub>Design, build, deploy, iterate</sub>
+
+<br><br>
+
+</td>
+<td align="center" width="33%">
+
+<br>
+
+**SaaS Products**
+
+<br>
+
+<sub>Platforms for real businesses</sub>
+
+<br><br>
 
 </td>
 </tr>
 </table>
 
-<br>
+<br><br><br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:5E6AD2,100:16161A&height=56&section=header&text=Tech%20Stack&fontSize=26&fontColor=F7F8F8" alt="stack"/>
 
-<br>
+<br><br>
 
-## Work Experience
-
-<br>
-
-```
-  2025 ──────────────────────────────────────────────── Present
-         │
-         ▼
-  ┌──────────────────────────────────────────────────────────────┐
-  │  Junior Full Stack Developer                                 │
-  │  Akhlaq Ventures Ltd  ·  Remote (London, UK)                 │
-  │                                                              │
-  │  • Core developer on Xenbite production mobile app           │
-  │  • Built production-ready React Native applications          │
-  │  • AWS Serverless architecture (Lambda, API Gateway,         │
-  │    DynamoDB, Cognito)                                        │
-  │  • Stripe payment integration & app store deployments        │
-  └──────────────────────────────────────────────────────────────┘
-
-  2024 ──────────────────────────────────────────────── 2024
-         │
-         ▼
-  ┌──────────────────────────────────────────────────────────────┐
-  │  Full Stack Developer (Freelance)                            │
-  │  International Clients  ·  Remote                            │
-  │                                                              │
-  │  • Delivered aqsatech.ae for UAE client in ~6 weeks          │
-  │  • Sanity CMS integration & SEO optimization                 │
-  │  • Built responsive, production-grade web applications       │
-  └──────────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
 
 <br>
 
----
+**Frontend**
+
+<br><br>
+
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,html,css&perline=7)
+
+<br><br>
+
+</td>
+<td align="center" width="50%" valign="top">
 
 <br>
 
-## Achievements
+**Backend**
+
+<br><br>
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express&perline=4)
+
+<br><br>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+
+<br>
+
+**Mobile**
+
+<br><br>
+
+![Mobile](https://skillicons.dev/icons?i=react,expo,android,ios&perline=4)
+
+<br><br>
+
+</td>
+<td align="center" width="50%" valign="top">
+
+<br>
+
+**Database & Payments**
+
+<br><br>
+
+![Database](https://skillicons.dev/icons?i=postgresql,dynamodb,stripe&perline=3)
+
+<br><br>
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2" valign="top">
+
+<br>
+
+**Cloud** · **DevOps** · **CMS** · **AI Tools**
+
+<br><br>
+
+[![Lambda](https://img.shields.io/badge/Lambda-16161A?style=flat&logo=awslambda&logoColor=FF9900&labelColor=0A0A0B)](https://aws.amazon.com/lambda/)
+[![API Gateway](https://img.shields.io/badge/API_Gateway-16161A?style=flat&logo=amazonaws&logoColor=FF9900&labelColor=0A0A0B)](https://aws.amazon.com/api-gateway/)
+[![DynamoDB](https://img.shields.io/badge/DynamoDB-16161A?style=flat&logo=amazondynamodb&logoColor=527FFF&labelColor=0A0A0B)](https://aws.amazon.com/dynamodb/)
+[![Cognito](https://img.shields.io/badge/Cognito-16161A?style=flat&logo=amazonaws&logoColor=FF9900&labelColor=0A0A0B)](https://aws.amazon.com/cognito/)
+[![S3](https://img.shields.io/badge/S3-16161A?style=flat&logo=amazons3&logoColor=569A31&labelColor=0A0A0B)](https://aws.amazon.com/s3/)
+
+<br>
+
+![DevOps](https://skillicons.dev/icons?i=git,githubactions,docker,vercel,netlify&perline=5)
+&nbsp;
+[![Sanity](https://img.shields.io/badge/Sanity_CMS-16161A?style=flat&logo=sanity&logoColor=F03E2F&labelColor=0A0A0B)](https://www.sanity.io/)
+[![Cursor](https://img.shields.io/badge/Cursor-16161A?style=flat&logo=cursor&logoColor=F7F8F8&labelColor=0A0A0B)](https://cursor.com/)
+[![Claude](https://img.shields.io/badge/Claude-16161A?style=flat&logo=anthropic&logoColor=D4A574&labelColor=0A0A0B)](https://claude.ai/)
+[![Kiro](https://img.shields.io/badge/Kiro-16161A?style=flat&logo=openai&logoColor=5E6AD2&labelColor=0A0A0B)](https://kiro.dev/)
+
+<br><br>
+
+</td>
+</tr>
+</table>
+
+<br><br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6366F1,100:16161A&height=56&section=header&text=GitHub&fontSize=26&fontColor=F7F8F8" alt="github"/>
+
+<br><br>
 
 <div align="center">
 
-[![Production Mobile App](https://img.shields.io/badge/🏆_Built_Production_Mobile_App-0f172a?style=for-the-badge&logo=appstore&logoColor=FFFFFF)](https://xenbite.com)
-[![AWS Serverless](https://img.shields.io/badge/🏆_AWS_Serverless_Architecture-0f172a?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/serverless/)
+<a href="https://github.com/mohamedfaisal-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedfaisal-dev&show_icons=true&hide_border=true&bg_color=0A0A0B&title_color=F7F8F8&icon_color=5E6AD2&text_color=8A8F98&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
+</a>
+&nbsp;
+<a href="https://github.com/mohamedfaisal-dev">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=mohamedfaisal-dev&theme=dark&hide_border=true&background=0A0A0B&ring=5E6AD2&fire=6366F1&currStreakLabel=F7F8F8&dates=8A8F98" alt="GitHub Streak"/>
+</a>
 
-<br>
+<br><br>
 
-[![International Clients](https://img.shields.io/badge/🏆_International_Client_Projects-0f172a?style=for-the-badge&logo=googleearth&logoColor=38BDF8)](https://aqsatech.ae)
-[![React Native Deployment](https://img.shields.io/badge/🏆_React_Native_Production_Deployment-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)](https://play.google.com/store/apps/details?id=com.akhlaqventures.xenbite.app)
+<a href="https://github.com/mohamedfaisal-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedfaisal-dev&layout=compact&hide_border=true&bg_color=0A0A0B&title_color=F7F8F8&text_color=8A8F98&langs_count=8" alt="Top Languages"/>
+</a>
 
-<br>
+<br><br>
 
-[![Stripe Integration](https://img.shields.io/badge/🏆_Stripe_Payment_Integration-0f172a?style=for-the-badge&logo=stripe&logoColor=635BFF)](https://stripe.com/)
-[![SEO Optimized](https://img.shields.io/badge/🏆_SEO_Optimized_Websites-0f172a?style=for-the-badge&logo=google&logoColor=4285F4)](https://aqsatech.ae)
+<a href="https://github.com/mohamedfaisal-dev">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedfaisal-dev&theme=react&hide_border=true&bg_color=0A0A0B&color=5E6AD2&line=6366F1&point=F7F8F8&area=true" alt="Contribution Graph" width="100%"/>
+</a>
 
 </div>
 
+<br><br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:5E6AD2,100:16161A&height=56&section=header&text=Featured%20Projects&fontSize=26&fontColor=F7F8F8" alt="projects"/>
+
+<br><br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=glass&color=gradient&customColorList=18,5E6AD2,6366F1,16161A&height=48&section=header&text=Xenbite&fontSize=16&fontColor=F7F8F8" alt="xenbite"/>
+
+<br><br>
+
+Live React Native marketplace — AWS Serverless, Stripe, DynamoDB, Cognito, and Node.js. Fresh food & surplus meals with in-app wallet, referrals, and push notifications. **500+ active users.**
+
+<br><br>
+
+[![Website](https://img.shields.io/badge/Website-xenbite.com-5E6AD2?style=flat&logo=googlechrome&logoColor=F7F8F8&labelColor=16161A)](https://xenbite.com)
+[![App Store](https://img.shields.io/badge/App_Store-6366F1?style=flat&logo=apple&logoColor=F7F8F8&labelColor=16161A)](https://apps.apple.com/gb/app/xenbite/id6762509915)
+[![Play Store](https://img.shields.io/badge/Play_Store-5E6AD2?style=flat&logo=googleplay&logoColor=F7F8F8&labelColor=16161A)](https://play.google.com/store/apps/details?id=com.akhlaqventures.xenbite.app)
+
+<br><br>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=glass&color=gradient&customColorList=18,6366F1,5E6AD2,16161A&height=48&section=header&text=RentalHub&fontSize=16&fontColor=F7F8F8" alt="rentalhub"/>
+
+<br><br>
+
+Property Management SaaS — Next.js, PostgreSQL, Tailwind CSS, and Node.js. Tenant management, invoicing, and analytics for property businesses.
+
+<br><br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-5E6AD2?style=flat&logo=github&logoColor=F7F8F8&labelColor=16161A)](https://github.com/mohamedfaisal-dev/Property-Management)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-6366F1?style=flat&logo=vercel&logoColor=F7F8F8&labelColor=16161A)](https://property-management-chrj.vercel.app/)
+
+<br><br>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=glass&color=gradient&customColorList=18,5E6AD2,6366F1,16161A&height=48&section=header&text=AQSATECH&fontSize=16&fontColor=F7F8F8" alt="aqsatech"/>
+
+<br><br>
+
+Production website for a Dubai-based technical services company. Next.js, Tailwind CSS, and Sanity CMS — SEO-optimized and fully responsive.
+
+<br><br>
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-aqsatech.ae-5E6AD2?style=flat&logo=googlechrome&logoColor=F7F8F8&labelColor=16161A)](https://aqsatech.ae)
+
+<br><br>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=glass&color=gradient&customColorList=18,6366F1,5E6AD2,16161A&height=48&section=header&text=Jesko%20Jets&fontSize=16&fontColor=F7F8F8" alt="jesko"/>
+
+<br><br>
+
+Luxury aviation landing page with premium UI, GSAP animations, Framer Motion, and responsive design.
+
+<br><br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-5E6AD2?style=flat&logo=github&logoColor=F7F8F8&labelColor=16161A)](https://github.com/mohamedfaisal-dev/Clone-Jesko-jets)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-6366F1?style=flat&logo=vercel&logoColor=F7F8F8&labelColor=16161A)](https://clone-jesko-jets.vercel.app)
+
+<br><br>
+
+</td>
+</tr>
+</table>
+
+<br><br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6366F1,100:16161A&height=56&section=header&text=Experience&fontSize=26&fontColor=F7F8F8" alt="experience"/>
+
+<br><br>
+
+<table>
+<tr>
+<td width="22%" valign="top">
+
 <br>
 
----
+**Nov 2025**
+**— Present**
 
 <br>
 
-## Certifications
+<sub>Full-Time · Remote</sub>
+
+<br><br>
+
+</td>
+<td width="78%" valign="top">
+
+<br>
+
+### Junior Full Stack Developer
+
+**Akhlaq Ventures Ltd** · Remote, London UK
+
+<br>
+
+- Core developer on **Xenbite** — 500+ active users on App Store & Play Store
+- **React Native** production apps with AWS Serverless backend
+- **Stripe** payments, Cognito auth, DynamoDB, Lambda architecture
+- App store deployments & push notification systems
+
+<br><br>
+
+</td>
+</tr>
+<tr>
+<td width="22%" valign="top">
+
+<br>
+
+**Feb 2024**
+**— Aug 2024**
+
+<br>
+
+<sub>Freelance · Remote</sub>
+
+<br><br>
+
+</td>
+<td width="78%" valign="top">
+
+<br>
+
+### Full Stack Developer
+
+**International Clients**
+
+<br>
+
+- Delivered **aqsatech.ae** for UAE client in ~6 weeks
+- **Sanity CMS** integration & SEO optimization
+- Production-grade responsive web applications
+
+<br><br>
+
+</td>
+</tr>
+</table>
+
+<br><br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:5E6AD2,100:16161A&height=56&section=header&text=Achievements&fontSize=26&fontColor=F7F8F8" alt="achievements"/>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<br>
+
+### 500+
+
+<sub>Active users on Xenbite</sub>
+
+<br><br>
+
+</td>
+<td align="center" width="33%">
+
+<br>
+
+### Serverless
+
+<sub>AWS production architecture</sub>
+
+<br><br>
+
+</td>
+<td align="center" width="33%">
+
+<br>
+
+### Global
+
+<sub>International client delivery</sub>
+
+<br><br>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+<br>
+
+### Live
+
+<sub>App Store & Play Store</sub>
+
+<br><br>
+
+</td>
+<td align="center" width="33%">
+
+<br>
+
+### Stripe
+
+<sub>Production payment integration</sub>
+
+<br><br>
+
+</td>
+<td align="center" width="33%">
+
+<br>
+
+### SEO
+
+<sub>Optimized production websites</sub>
+
+<br><br>
+
+</td>
+</tr>
+</table>
+
+<br><br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6366F1,100:16161A&height=56&section=header&text=Certifications&fontSize=26&fontColor=F7F8F8" alt="certs"/>
+
+<br><br>
+
+Actively pursuing **AWS Cloud Practitioner** and advanced serverless architecture credentials.
+
+<br><br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:5E6AD2,100:16161A&height=56&section=header&text=Contact&fontSize=26&fontColor=F7F8F8" alt="contact"/>
+
+<br><br>
 
 <div align="center">
 
-```
-┌────────────────────────────────────────────────────────────────┐
-│  Actively pursuing cloud & full-stack certifications           │
-│  AWS Cloud Practitioner  ·  Advanced serverless architecture   │
-└────────────────────────────────────────────────────────────────┘
-```
+Open to full-time opportunities, freelance projects, and ambitious product collaborations.
 
-<br>
+<br><br>
 
-*Credential badges will be added as certifications are completed.*
+[![GitHub](https://img.shields.io/badge/GitHub-mohamedfaisal--dev-5E6AD2?style=flat&logo=github&logoColor=F7F8F8&labelColor=16161A)](https://github.com/mohamedfaisal-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamed--faisal--dev-6366F1?style=flat&logo=linkedin&logoColor=F7F8F8&labelColor=16161A)](https://linkedin.com/in/mohamed-faisal-dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohamedfaisal.dev-5E6AD2?style=flat&logo=googlechrome&logoColor=F7F8F8&labelColor=16161A)](https://mohamedfaisal.dev)
+[![Email](https://img.shields.io/badge/Email-mohamedfaisal.dev@gmail.com-6366F1?style=flat&logo=gmail&logoColor=F7F8F8&labelColor=16161A)](mailto:mohamedfaisal.dev@gmail.com)
 
 </div>
 
-<br>
-
----
-
-<br>
-
-## Contact
+<br><br><br>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-mohamedfaisal--dev-0f172a?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/mohamedfaisal-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamed--faisal--dev-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/mohamed-faisal-dev)
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-mohamedfaisal.dev-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38BDF8)](https://mohamedfaisal.dev)
-[![Email](https://img.shields.io/badge/Email-mohamedfaisal.dev@gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mohamedfaisal.dev@gmail.com)
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-### *"Building products that create real-world impact."*
-
-<br>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=120&section=footer&fontSize=14&fontColor=64748b&animation=twinkling)
-
-<br>
-
-![Snake animation](https://raw.githubusercontent.com/mohamedfaisal-dev/mohamedfaisal-dev/output/github-contribution-grid-snake-dark.svg)
+<img src="https://capsule-render.vercel.app/api?type=glass&color=gradient&customColorList=18,5E6AD2,6366F1,0A0A0B&height=72&section=footer&text=Building%20products%20that%20create%20real-world%20impact.&fontSize=15&fontColor=8A8F98" alt="footer"/>
 
 </div>
