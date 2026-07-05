@@ -1,32 +1,62 @@
-name: Generate Snake
+name: Update Profile Activity
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - .github/workflows/snake.yml
   schedule:
-    - cron: "0 0 * * *"
+    # Refresh contribution visuals twice daily
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: profile-activity-${{ github.repository }}
+  cancel-in-progress: true
+
 jobs:
-  generate:
+  update-activity:
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
-      - name: Generate snake.svg
+      - name: Generate contribution visuals
         uses: Platane/snk@v3
-        id: snake-gif
         with:
-          github_user_name: mohamedfaisal-dev
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid.svg?palette=github-dark
 
-      - name: Push to output branch
+      - name: Verify generated files
+        run: |
+          test -f dist/github-contribution-grid-snake-dark.svg
+          test -f dist/github-contribution-grid-snake.svg
+          test -f dist/github-contribution-grid.svg
+          echo "All contribution assets generated successfully."
+
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "chore: update profile contribution activity"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Workflow summary
+        run: |
+          echo "## Profile activity updated" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "| Asset | URL |" >> "$GITHUB_STEP_SUMMARY"
+          echo "|-------|-----|" >> "$GITHUB_STEP_SUMMARY"
+          echo "| Snake (dark) | https://raw.githubusercontent.com/${{ github.repository }}/output/github-contribution-grid-snake-dark.svg |" >> "$GITHUB_STEP_SUMMARY"
+          echo "| Snake (light) | https://raw.githubusercontent.com/${{ github.repository }}/output/github-contribution-grid-snake.svg |" >> "$GITHUB_STEP_SUMMARY"
+          echo "| Contribution grid | https://raw.githubusercontent.com/${{ github.repository }}/output/github-contribution-grid.svg |" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "These images are embedded in \`README.md\` and refresh on every push to \`main\` or every 12 hours." >> "$GITHUB_STEP_SUMMARY"

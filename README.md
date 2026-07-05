@@ -268,6 +268,20 @@ Full Stack Developer passionate about building **production-ready** products —
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedfaisal-dev&theme=react&hide_border=true&bg_color=0A0A0B&color=5E6AD2&line=6366F1&point=F7F8F8&area=true" alt="Contribution Graph" width="100%"/>
 </a>
 
+<br><br>
+
+<sub>Live coding activity · auto-updates via GitHub Actions</sub>
+
+<br><br>
+
+<a href="https://github.com/mohamedfaisal-dev/mohamedfaisal-dev/actions/workflows/snake.yml">
+  <img src="https://raw.githubusercontent.com/mohamedfaisal-dev/mohamedfaisal-dev/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+</a>
+
+<br>
+
+[![Profile Activity](https://github.com/mohamedfaisal-dev/mohamedfaisal-dev/actions/workflows/snake.yml/badge.svg)](https://github.com/mohamedfaisal-dev/mohamedfaisal-dev/actions/workflows/snake.yml)
+
 </div>
 
 <br><br><br>
