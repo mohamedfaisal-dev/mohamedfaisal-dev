@@ -1,265 +1,289 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=glass&color=gradient&customColorList=18,5E6AD2,6366F1,0A0A0B&height=200&section=header&text=Mohamed%20Faisal&fontSize=44&fontColor=F7F8F8&desc=Junior%20Full%20Stack%20Developer&descSize=18&descAlignY=72&descAlign=62" alt="header"/>
-
-<br><br>
-
-<img src="https://github.com/mohamedfaisal-dev.png" width="110" style="border-radius: 50%; border: 2px solid #5E6AD2;" alt="Mohamed Faisal"/>
-
-<br><br>
-
-# Mohamed Faisal
-
-## Junior Full Stack Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,5E6AD2,6366F1,0A0A0B&height=220&section=header&text=Mohamed%20Faisal&fontSize=42&fontColor=F7F8F8&desc=IT%20Support%20Engineer%20%7C%20Cloud%20Support%20(AWS)%20%7C%20Systems%20%26%20Service%20Desk&descSize=16&descAlignY=68&descAlign=50" alt="Mohamed Faisal Banner" width="100%"/>
 
 <br>
 
-React Native Developer · AWS Serverless Developer · Open Source Enthusiast
+<img src="https://github.com/mohamedfaisal-dev.png" width="120" style="border-radius: 50%; border: 3px solid #5E6AD2; box-shadow: 0 4px 20px rgba(94, 106, 210, 0.4);" alt="Mohamed Faisal"/>
+
+### **IT Support Engineer • Cloud Support (AWS) • Service Desk (L1/L2) • Systems Administration**
+
+📍 **India** &nbsp;|&nbsp; ✈️ **Open to Relocate to Dubai, UAE** &nbsp;|&nbsp; ⚡ **Immediate Joiner (Notice Period: None)**
 
 <br>
 
-Building scalable web & mobile applications
+[![Dubai Relocation](https://img.shields.io/badge/Relocation-Open_to_Dubai,_UAE-007A3D?style=for-the-badge&logo=googlemaps&logoColor=white)](https://linkedin.com/in/mohamed-faisal-dev)
+[![Immediate Joiner](https://img.shields.io/badge/Availability-Immediate_Joiner-5E6AD2?style=for-the-badge&logo=clock&logoColor=white)](mailto:mohamedfaisal.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mohamedfaisal.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedfaisal.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-faisal-dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohamedfaisal.dev-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohamedfaisal.dev)
 
-<br><br>
+<br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mohamedfaisal.dev-5E6AD2?style=flat&logo=googlechrome&logoColor=F7F8F8&labelColor=16161A)](https://mohamedfaisal.dev)
-[![Email](https://img.shields.io/badge/Email-Contact-6366F1?style=flat&logo=gmail&logoColor=F7F8F8&labelColor=16161A)](mailto:mohamedfaisal.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-5E6AD2?style=flat&logo=linkedin&logoColor=F7F8F8&labelColor=16161A)](https://linkedin.com/in/mohamed-faisal-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-mohamedfaisal--dev-6366F1?style=flat&logo=github&logoColor=F7F8F8&labelColor=16161A)](https://github.com/mohamedfaisal-dev)
-
-<br><br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=mohamedfaisal-dev&label=Profile%20Views&color=5E6AD2&labelColor=16161A&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=mohamedfaisal-dev&label=Profile%20Views&color=5E6AD2&labelColor=16161A&style=flat-square)
 
 </div>
 
-<br><br><br>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:5E6AD2,100:16161A&height=56&section=header&text=About%20Me&fontSize=26&fontColor=F7F8F8" alt="about"/>
+### 👨‍💻 About Me
 
-<br><br>
+Customer-focused and analytical **IT Support Engineer** with hands-on production support experience on live **AWS-hosted cloud applications** and deep practical expertise built through **enterprise IT operations labs** (Windows Server, Active Directory Domain Services, DNS/DHCP, Group Policy, Microsoft Entra ID, Linux).
 
-Full Stack Developer passionate about building **production-ready** products — clean architecture, refined UI, and scalable cloud systems.
+- 🛠️ **L1/L2 Incident Triage:** Skilled in structured troubleshooting, root-cause analysis (RCA), and SLA-driven resolution across Windows endpoints, identity access management, network connectivity, and cloud services.
+- ☁️ **Production Cloud Support:** Supported live serverless microservices on AWS (Lambda, API Gateway, DynamoDB, Cognito, CloudWatch) for a mobile marketplace application serving 500+ active users.
+- 🏢 **Enterprise Identity & Systems:** Experienced in provisioning, managing OUs, GPOs, user permissions (NTFS/RBAC), account unlocks, and password resets in hybrid Windows Server & Entra ID environments.
+- 📋 **ITSM Best Practices:** Jira-based ticketing workflows, clear technical runbook/KB documentation, asset tracking, and remote support via RDP, AnyDesk, and Quick Assist.
+- 🎓 **Academic Background:** B.Sc. in Computer Science (Pondicherry University) and pursuing Master of Computer Applications (MCA) at Sikkim Manipal University.
+- 🎯 **Current Career Focus:** Securing an **IT Support / Service Desk / Cloud Support Engineer** role in **Dubai, UAE** or internationally.
 
-<br><br>
+---
 
-| | |
-|:--|:--|
-| **Production-Ready** | Ship battle-tested apps to App Store, Play Store & production web |
-| **Real-World Impact** | Payments, auth, notifications, SEO — solving business problems |
-| **Scalable Architecture** | Serverless AWS, modular APIs, maintainable codebases |
-| **Clean UI/UX** | Minimal, responsive, accessible interfaces |
-| **Continuous Learning** | AI-assisted development, system design, cloud-native patterns |
-| **Cloud & Mobile** | Lambda, DynamoDB, Cognito · React Native, Expo |
+### 🖥️ IT Operations Command Dashboard
 
-<br><br>
+```text
+=================================================================================================
+  HOST: mohamedfaisal-dev | ROLE: IT Support & Cloud Support Engineer | STATUS: AVAILABLE
+=================================================================================================
+  [●] Service Desk & ITSM   : Incident & Problem Management, ITIL, Jira, ServiceNow, SLA Driven
+  [●] Identity & Access     : Active Directory (AD DS), Entra ID, GPO, RBAC, NTFS, MFA, BitLocker
+  [●] Cloud & Production    : AWS (EC2, S3, IAM, CloudWatch, Lambda, API Gateway, DynamoDB, Cognito)
+  [●] Systems & Endpoints   : Windows 10/11, Windows Server 2019/2022/2025, Ubuntu Linux, macOS
+  [●] Network Operations    : TCP/IP, IPv4 Subnetting, DNS/DHCP, VLAN, NAT, VPN, Wireshark
+  [●] Automation & Tools    : PowerShell, Bash, Python, Git/GitHub, Hyper-V, VMware
+=================================================================================================
+```
 
-**Education** — B.Sc. Computer Science, Pondicherry University *(2026)*
+---
 
-<br><br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6366F1,100:16161A&height=56&section=header&text=Current%20Focus&fontSize=26&fontColor=F7F8F8" alt="focus"/>
-
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:5E6AD2,100:16161A&height=50&section=header&text=Technical%20Skills%20%26%20Domain%20Expertise&fontSize=22&fontColor=F7F8F8" alt="Technical Skills" width="100%"/>
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-<br>
+#### 🎫 Service Desk & ITSM
+- **Frameworks & Ticketing:** Incident Management, Service Requests, Problem Management, ITIL Fundamentals, Jira Service Desk, ServiceNow, Freshservice
+- **Operations & Metrics:** SLA Compliance, Ticket Escalation Paths, Root Cause Analysis (RCA), Knowledge Base (KB) Authoring, IT Asset Lifecycle Management
+- **Remote Diagnostics:** Windows RDP, Microsoft Quick Assist, AnyDesk, TeamViewer
 
-**React Native**
+#### 🏢 Windows Server & Identity Management
+- **Active Directory (AD DS):** User, Security Group & OU Management, Password Resets, Account Unlock, Domain Join, FSMO roles familiarity
+- **Security & Policies:** Group Policy Objects (GPO), NTFS Permissions, File Shares, Print Servers, BitLocker Drive Encryption
+- **Cloud Identity:** Microsoft Entra ID (Azure AD), Multi-Factor Authentication (MFA), Self-Service Password Reset (SSPR)
 
-<br>
-
-<sub>Cross-platform mobile with native performance</sub>
-
-<br><br>
-
-</td>
-<td align="center" width="33%">
-
-<br>
-
-**AWS Serverless**
-
-<br>
-
-<sub>Lambda, API Gateway, DynamoDB at scale</sub>
-
-<br><br>
+#### 🌐 Networking & Diagnostics
+- **Core Protocols:** TCP/IP, IPv4 Addressing & Subnetting, DNS, DHCP, VLANs, NAT, Default Gateways, Routing Basics
+- **Security & Remote Access:** Corporate VPNs, Firewall Rules, Wi-Fi 802.11 Troubleshooting
+- **CLI Diagnostic Toolkit:** `ping`, `tracert`, `nslookup`, `ipconfig`, `netstat`, `curl`, Wireshark Packet Analysis
 
 </td>
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-<br>
+#### ☁️ Cloud & Production Infrastructure (AWS)
+- **Compute & Serverless:** AWS EC2, AWS Lambda, API Gateway
+- **Storage & Databases:** Amazon S3, DynamoDB, RDS/PostgreSQL
+- **Identity & Security:** AWS IAM (Least-Privilege Roles & Policies), AWS Cognito (User Pools & Auth)
+- **Monitoring & Observability:** Amazon CloudWatch (Logs, Alarms, Metrics, Dashboard Insights)
+- **Operations:** Cloud incident remediation, backup & snapshot recovery, Git/GitHub CI/CD workflows
 
-**AI-Assisted Development**
+#### 🐧 Linux & Virtualization
+- **Operating Systems:** Ubuntu Linux, Debian, Windows Server, Windows 10/11 Pro/Enterprise
+- **Linux Administration:** Bash CLI, SSH Key Management, User/Group Permissions (`chmod`, `chown`), Systemd Services, Log Inspection (`/var/log`, `journalctl`)
+- **Virtualization Platforms:** Hyper-V, VMware Workstation, Oracle VirtualBox
 
-<br>
-
-<sub>Cursor, Claude & modern AI workflows</sub>
-
-<br><br>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-
-<br>
-
-**System Design**
-
-<br>
-
-<sub>Resilient systems built for growth</sub>
-
-<br><br>
-
-</td>
-<td align="center" width="33%">
-
-<br>
-
-**Mobile Apps**
-
-<br>
-
-<sub>Design, build, deploy, iterate</sub>
-
-<br><br>
-
-</td>
-<td align="center" width="33%">
-
-<br>
-
-**SaaS Products**
-
-<br>
-
-<sub>Platforms for real businesses</sub>
-
-<br><br>
+#### ⚙️ Automation & Modern Tooling
+- **Scripting:** PowerShell (AD bulk user automation, system queries), Bash scripting
+- **Development & Version Control:** Git, GitHub, REST APIs, JSON, Postman
+- **Office & Collaboration:** Microsoft 365 Admin Center, Exchange Online, Microsoft Teams, Outlook, OneDrive/SharePoint
 
 </td>
 </tr>
 </table>
 
-<br><br><br>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:5E6AD2,100:16161A&height=56&section=header&text=Tech%20Stack&fontSize=26&fontColor=F7F8F8" alt="stack"/>
+```
+[ Active Directory ]   [ Windows Server ]   [ AWS Cloud ]   [ Microsoft 365 ]   [ Linux CLI ]   [ Jira ITSM ]
+```
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,aws,bash,powershell,git,github,docker,postman&perline=10" alt="Tech Stack Icons"/>
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6366F1,100:16161A&height=50&section=header&text=Featured%20Projects%20%26%20IT%20Labs&fontSize=22&fontColor=F7F8F8" alt="Featured Projects" width="100%"/>
 
 <table>
 <tr>
-<td align="center" width="50%" valign="top">
+<td width="50%" valign="top">
 
-<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=glass&color=gradient&customColorList=18,5E6AD2,6366F1,16161A&height=45&section=header&text=AL-MARSA%20Enterprise%20Lab&fontSize=16&fontColor=F7F8F8" alt="AL-MARSA Lab" width="100%"/>
+</div>
 
-**Frontend**
+### 🏛️ AL-MARSA — Enterprise IT Operations & Infrastructure Lab
+**Virtualised Enterprise Network & Identity Environment** *(2026 – Present)*
 
-<br><br>
+- **Infrastructure Architecture:** Architected an isolated enterprise-grade virtual network featuring Windows Server 2022 Domain Controllers, Active Directory Domain Services (AD DS), DNS, and DHCP failover scopes.
+- **Directory & Policy Management:** Designed hierarchical Organizational Units (OUs), role-based security groups, and automated Group Policy Objects (GPOs) for wallpaper lockdown, password complexity, software deployment, and mapped network drives.
+- **Real-World Triage Simulation:** Replicated and resolved 30+ end-to-end service desk incidents: account lockout storms, Kerberos authentication issues, DNS stale cache failures, network misconfigurations, and permission escalations.
+- **Documentation & Automation:** Authored structured Jira-style ticket runbooks, standard operating procedures (SOPs), and PowerShell scripts for bulk user creation and AD health audits.
 
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,html,css&perline=7)
-
-<br><br>
-
-</td>
-<td align="center" width="50%" valign="top">
-
-<br>
-
-**Backend**
-
-<br><br>
-
-![Backend](https://skillicons.dev/icons?i=nodejs,express&perline=4)
-
-<br><br>
+[![Lab Status](https://img.shields.io/badge/Environment-Active_Simulated_Enterprise-5E6AD2?style=flat-square&logo=windows&logoColor=white)](#)
+[![Tech Stack](https://img.shields.io/badge/Stack-AD_DS_•_GPO_•_DNS%2FDHCP_•_PowerShell-6366F1?style=flat-square)](#)
 
 </td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top">
+<td width="50%" valign="top">
 
-<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=glass&color=gradient&customColorList=18,6366F1,5E6AD2,16161A&height=45&section=header&text=Xenbite%20Production%20Support&fontSize=16&fontColor=F7F8F8" alt="Xenbite" width="100%"/>
+</div>
 
-**Mobile**
+### ☁️ Xenbite — Cloud & Application Production Support
+**Live AWS-Backed Marketplace Application** *(Akhlaq Ventures Ltd)*
 
-<br><br>
+- **Production L1/L2 Support:** Monitored and maintained cloud availability for a live consumer marketplace with **500+ active users** on the Apple App Store and Google Play Store.
+- **AWS Serverless Triage:** Triaged and resolved incidents across **AWS Lambda**, **API Gateway**, **Amazon DynamoDB**, and **AWS Cognito** using **Amazon CloudWatch** logs and performance metrics.
+- **Root Cause Analysis (RCA):** Investigated authentication timeouts, API payload failures, payment webhook delays (Stripe), and database connectivity bottlenecks, coordinating with developers to push verified fixes.
+- **ITSM Workflows:** Managed incident lifecycle, defect tracking, and release rollouts in **Jira**, ensuring compliance with strict SLA thresholds and customer service excellence.
 
-![Mobile](https://skillicons.dev/icons?i=react,expo,android,ios&perline=4)
-
-<br><br>
-
-</td>
-<td align="center" width="50%" valign="top">
-
-<br>
-
-**Database & Payments**
-
-<br><br>
-
-![Database](https://skillicons.dev/icons?i=postgresql,dynamodb,stripe&perline=3)
-
-<br><br>
+[![App Store](https://img.shields.io/badge/App_Store-iOS_Live-black?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/gb/app/xenbite/id6762509915)
+[![Play Store](https://img.shields.io/badge/Play_Store-Android_Live-0288D1?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.akhlaqventures.xenbite.app)
+[![AWS Powered](https://img.shields.io/badge/AWS-Serverless_Support-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](#)
 
 </td>
 </tr>
 <tr>
-<td align="center" colspan="2" valign="top">
+<td width="50%" valign="top">
 
-<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=glass&color=gradient&customColorList=18,5E6AD2,6366F1,16161A&height=45&section=header&text=AQSATECH%20Technical%20Services&fontSize=16&fontColor=F7F8F8" alt="AQSATECH" width="100%"/>
+</div>
 
-**Cloud** · **DevOps** · **CMS** · **AI Tools**
+### 🌍 AQSATECH — Web & Infrastructure Delivery
+**Commercial Web Deployment for Dubai-based Technical Services**
 
-<br><br>
+- **Deployment & DNS Management:** Delivered and launched the official online platform for a Dubai technical services client, handling domain DNS configuration, SSL/TLS certificate provisioning, and CDN routing.
+- **Reliability & Performance:** Built with Next.js and Sanity CMS, delivering 99.9% uptime, responsive multi-device rendering, and rigorous SEO optimization.
 
-[![Lambda](https://img.shields.io/badge/Lambda-16161A?style=flat&logo=awslambda&logoColor=FF9900&labelColor=0A0A0B)](https://aws.amazon.com/lambda/)
-[![API Gateway](https://img.shields.io/badge/API_Gateway-16161A?style=flat&logo=amazonaws&logoColor=FF9900&labelColor=0A0A0B)](https://aws.amazon.com/api-gateway/)
-[![DynamoDB](https://img.shields.io/badge/DynamoDB-16161A?style=flat&logo=amazondynamodb&logoColor=527FFF&labelColor=0A0A0B)](https://aws.amazon.com/dynamodb/)
-[![Cognito](https://img.shields.io/badge/Cognito-16161A?style=flat&logo=amazonaws&logoColor=FF9900&labelColor=0A0A0B)](https://aws.amazon.com/cognito/)
-[![S3](https://img.shields.io/badge/S3-16161A?style=flat&logo=amazons3&logoColor=569A31&labelColor=0A0A0B)](https://aws.amazon.com/s3/)
+[![Website](https://img.shields.io/badge/Live_Site-aqsatech.ae-007A3D?style=flat-square&logo=googlechrome&logoColor=white)](https://aqsatech.ae)
 
-<br>
+</td>
+<td width="50%" valign="top">
 
-![DevOps](https://skillicons.dev/icons?i=git,githubactions,docker,vercel,netlify&perline=5)
-&nbsp;
-[![Sanity](https://img.shields.io/badge/Sanity_CMS-16161A?style=flat&logo=sanity&logoColor=F03E2F&labelColor=0A0A0B)](https://www.sanity.io/)
-[![Cursor](https://img.shields.io/badge/Cursor-16161A?style=flat&logo=cursor&logoColor=F7F8F8&labelColor=0A0A0B)](https://cursor.com/)
-[![Claude](https://img.shields.io/badge/Claude-16161A?style=flat&logo=anthropic&logoColor=D4A574&labelColor=0A0A0B)](https://claude.ai/)
-[![Kiro](https://img.shields.io/badge/Kiro-16161A?style=flat&logo=openai&logoColor=5E6AD2&labelColor=0A0A0B)](https://kiro.dev/)
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=glass&color=gradient&customColorList=18,6366F1,5E6AD2,16161A&height=45&section=header&text=Enterprise%20SaaS%20Projects&fontSize=16&fontColor=F7F8F8" alt="RentalHub" width="100%"/>
+</div>
 
-<br><br>
+### 🏢 RentalHub & Systems Integration
+**Full Stack Property Management & Database Operations**
+
+- **Database & Architecture:** Built with Next.js, PostgreSQL, Node.js, and Tailwind CSS. Implemented tenant role-based access control (RBAC), automated invoicing workflows, and audit logging.
+- **Version Control & CI/CD:** Maintained continuous integration pipelines with GitHub Actions, validating build integrity and deployment stability.
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohamedfaisal-dev/Property-Management)
+[![Demo](https://img.shields.io/badge/Live_Demo-Vercel-black?style=flat-square&logo=vercel&logoColor=white)](https://property-management-chrj.vercel.app/)
 
 </td>
 </tr>
 </table>
 
-<br><br><br>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6366F1,100:16161A&height=56&section=header&text=GitHub&fontSize=26&fontColor=F7F8F8" alt="github"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:5E6AD2,100:16161A&height=50&section=header&text=Work%20Experience&fontSize=22&fontColor=F7F8F8" alt="Work Experience" width="100%"/>
 
-<br><br>
+<table>
+<tr>
+<td width="25%" valign="top">
+
+**Feb 2026 – Jul 2026**  
+<sub>Full-Time Intern • Remote</sub>  
+📍 *London, UK (Remote)*
+
+</td>
+<td width="75%" valign="top">
+
+### **Full Stack Developer Intern — Cloud & Production Support**
+**Akhlaq Ventures Ltd. (Xenbite)**
+
+- Provided frontline and L2 production support for a live mobile marketplace app and AWS backend architecture.
+- Diagnosed user authentication bottlenecks, API gateway errors, and database synchronization issues across AWS Lambda, DynamoDB, and Cognito.
+- Performed deep-dive root cause analysis using CloudWatch logs and endpoint telemetry, reducing recurring defect tickets.
+- Documented repeatable troubleshooting procedures, KB articles, and operational escalation checklists in Jira.
+- Coordinated release deployments using Git/GitHub version-control workflows.
+
+</td>
+</tr>
+<tr>
+<td width="25%" valign="top">
+
+**Nov 2025 – Jan 2026**  
+<sub>Freelance Support • Remote</sub>  
+📍 *International*
+
+</td>
+<td width="75%" valign="top">
+
+### **IT / Web Technical Support Specialist**
+**Freelance Support Engagements**
+
+- Delivered remote technical support to international clients for software configuration, network setup, and cloud service deployments.
+- Resolved endpoint software conflicts, email routing issues, and DNS propagation hurdles.
+- Guided non-technical end-users through screen-sharing and remote desktop sessions with high customer satisfaction ratings.
+
+</td>
+</tr>
+</table>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6366F1,100:16161A&height=50&section=header&text=Education%20%26%20Certifications&fontSize=22&fontColor=F7F8F8" alt="Education and Certifications" width="100%"/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎓 Education
+- **Master of Computer Applications (MCA)** — *In Progress*  
+  *Sikkim Manipal University (Online)*
+- **Bachelor of Science (B.Sc.) in Computer Science** — *2023 – 2026*  
+  *Pondicherry University, India*
+
+</td>
+<td width="50%" valign="top">
+
+#### 📜 Certifications & Security Training
+- **Cyber Security Internship & Training Certificates**  
+  *Infotact Solutions (Apr 2025 – Jul 2025)*  
+  *Covers network defense fundamentals, access control, vulnerability analysis & endpoint hardening.*
+- **Languages:**  
+  • **English** — Professional Working Proficiency  
+  • **Tamil** — Native Proficiency
+
+</td>
+</tr>
+</table>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:5E6AD2,100:16161A&height=50&section=header&text=GitHub%20Activity%20%26%20Telemetry&fontSize=22&fontColor=F7F8F8" alt="Activity" width="100%"/>
 
 <div align="center">
 
 <a href="https://github.com/mohamedfaisal-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedfaisal-dev&show_icons=true&hide_border=true&bg_color=0A0A0B&title_color=F7F8F8&icon_color=5E6AD2&text_color=8A8F98&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=mohamedfaisal-dev&show_icons=true&hide_border=true&bg_color=0A0A0B&title_color=F7F8F8&icon_color=5E6AD2&text_color=8A8F98&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
 </a>
 &nbsp;
 <a href="https://github.com/mohamedfaisal-dev">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=mohamedfaisal-dev&theme=dark&hide_border=true&background=0A0A0B&ring=5E6AD2&fire=6366F1&currStreakLabel=F7F8F8&dates=8A8F98" alt="GitHub Streak"/>
+  <img height="175em" src="https://streak-stats.demolab.com/?user=mohamedfaisal-dev&theme=dark&hide_border=true&background=0A0A0B&ring=5E6AD2&fire=6366F1&currStreakLabel=F7F8F8&dates=8A8F98" alt="GitHub Streak"/>
 </a>
 
 <br><br>
 
 <a href="https://github.com/mohamedfaisal-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedfaisal-dev&layout=compact&hide_border=true&bg_color=0A0A0B&title_color=F7F8F8&text_color=8A8F98&langs_count=8" alt="Top Languages"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedfaisal-dev&layout=compact&hide_border=true&bg_color=0A0A0B&title_color=F7F8F8&text_color=8A8F98&langs_count=8" alt="Top Languages"/>
 </a>
 
 <br><br>
@@ -267,10 +291,6 @@ Full Stack Developer passionate about building **production-ready** products —
 <a href="https://github.com/mohamedfaisal-dev">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedfaisal-dev&theme=react&hide_border=true&bg_color=0A0A0B&color=5E6AD2&line=6366F1&point=F7F8F8&area=true" alt="Contribution Graph" width="100%"/>
 </a>
-
-<br><br>
-
-<sub>Live coding activity · auto-updates via GitHub Actions</sub>
 
 <br><br>
 
@@ -284,269 +304,25 @@ Full Stack Developer passionate about building **production-ready** products —
 
 </div>
 
-<br><br><br>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:5E6AD2,100:16161A&height=56&section=header&text=Featured%20Projects&fontSize=26&fontColor=F7F8F8" alt="projects"/>
-
-<br><br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://capsule-render.vercel.app/api?type=glass&color=gradient&customColorList=18,5E6AD2,6366F1,16161A&height=48&section=header&text=Xenbite&fontSize=16&fontColor=F7F8F8" alt="xenbite"/>
-
-<br><br>
-
-Live React Native marketplace — AWS Serverless, Stripe, DynamoDB, Cognito, and Node.js. Fresh food & surplus meals with in-app wallet, referrals, and push notifications. **500+ active users.**
-
-<br><br>
-
-[![Website](https://img.shields.io/badge/Website-xenbite.com-5E6AD2?style=flat&logo=googlechrome&logoColor=F7F8F8&labelColor=16161A)](https://xenbite.com)
-[![App Store](https://img.shields.io/badge/App_Store-6366F1?style=flat&logo=apple&logoColor=F7F8F8&labelColor=16161A)](https://apps.apple.com/gb/app/xenbite/id6762509915)
-[![Play Store](https://img.shields.io/badge/Play_Store-5E6AD2?style=flat&logo=googleplay&logoColor=F7F8F8&labelColor=16161A)](https://play.google.com/store/apps/details?id=com.akhlaqventures.xenbite.app)
-
-<br><br>
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://capsule-render.vercel.app/api?type=glass&color=gradient&customColorList=18,6366F1,5E6AD2,16161A&height=48&section=header&text=RentalHub&fontSize=16&fontColor=F7F8F8" alt="rentalhub"/>
-
-<br><br>
-
-Property Management SaaS — Next.js, PostgreSQL, Tailwind CSS, and Node.js. Tenant management, invoicing, and analytics for property businesses.
-
-<br><br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-5E6AD2?style=flat&logo=github&logoColor=F7F8F8&labelColor=16161A)](https://github.com/mohamedfaisal-dev/Property-Management)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-6366F1?style=flat&logo=vercel&logoColor=F7F8F8&labelColor=16161A)](https://property-management-chrj.vercel.app/)
-
-<br><br>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://capsule-render.vercel.app/api?type=glass&color=gradient&customColorList=18,5E6AD2,6366F1,16161A&height=48&section=header&text=AQSATECH&fontSize=16&fontColor=F7F8F8" alt="aqsatech"/>
-
-<br><br>
-
-Production website for a Dubai-based technical services company. Next.js, Tailwind CSS, and Sanity CMS — SEO-optimized and fully responsive.
-
-<br><br>
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-aqsatech.ae-5E6AD2?style=flat&logo=googlechrome&logoColor=F7F8F8&labelColor=16161A)](https://aqsatech.ae)
-
-<br><br>
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://capsule-render.vercel.app/api?type=glass&color=gradient&customColorList=18,6366F1,5E6AD2,16161A&height=48&section=header&text=Jesko%20Jets&fontSize=16&fontColor=F7F8F8" alt="jesko"/>
-
-<br><br>
-
-Luxury aviation landing page with premium UI, GSAP animations, Framer Motion, and responsive design.
-
-<br><br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-5E6AD2?style=flat&logo=github&logoColor=F7F8F8&labelColor=16161A)](https://github.com/mohamedfaisal-dev/Clone-Jesko-jets)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-6366F1?style=flat&logo=vercel&logoColor=F7F8F8&labelColor=16161A)](https://clone-jesko-jets.vercel.app)
-
-<br><br>
-
-</td>
-</tr>
-</table>
-
-<br><br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6366F1,100:16161A&height=56&section=header&text=Experience&fontSize=26&fontColor=F7F8F8" alt="experience"/>
-
-<br><br>
-
-<table>
-<tr>
-<td width="22%" valign="top">
-
-<br>
-
-**Nov 2025**
-**— Present**
-
-<br>
-
-<sub>Full-Time · Remote</sub>
-
-<br><br>
-
-</td>
-<td width="78%" valign="top">
-
-<br>
-
-### Junior Full Stack Developer
-
-**Akhlaq Ventures Ltd** · Remote, London UK
-
-<br>
-
-- Core developer on **Xenbite** — 500+ active users on App Store & Play Store
-- **React Native** production apps with AWS Serverless backend
-- **Stripe** payments, Cognito auth, DynamoDB, Lambda architecture
-- App store deployments & push notification systems
-
-<br><br>
-
-</td>
-</tr>
-<tr>
-<td width="22%" valign="top">
-
-<br>
-
-**Feb 2024**
-**— Aug 2024**
-
-<br>
-
-<sub>Freelance · Remote</sub>
-
-<br><br>
-
-</td>
-<td width="78%" valign="top">
-
-<br>
-
-### Full Stack Developer
-
-**International Clients**
-
-<br>
-
-- Delivered **aqsatech.ae** for UAE client in ~6 weeks
-- **Sanity CMS** integration & SEO optimization
-- Production-grade responsive web applications
-
-<br><br>
-
-</td>
-</tr>
-</table>
-
-<br><br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:5E6AD2,100:16161A&height=56&section=header&text=Achievements&fontSize=26&fontColor=F7F8F8" alt="achievements"/>
-
-<br><br>
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-<br>
-
-### 500+
-
-<sub>Active users on Xenbite</sub>
-
-<br><br>
-
-</td>
-<td align="center" width="33%">
-
-<br>
-
-### Serverless
-
-<sub>AWS production architecture</sub>
-
-<br><br>
-
-</td>
-<td align="center" width="33%">
-
-<br>
-
-### Global
-
-<sub>International client delivery</sub>
-
-<br><br>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-
-<br>
-
-### Live
-
-<sub>App Store & Play Store</sub>
-
-<br><br>
-
-</td>
-<td align="center" width="33%">
-
-<br>
-
-### Stripe
-
-<sub>Production payment integration</sub>
-
-<br><br>
-
-</td>
-<td align="center" width="33%">
-
-<br>
-
-### SEO
-
-<sub>Optimized production websites</sub>
-
-<br><br>
-
-</td>
-</tr>
-</table>
-
-<br><br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6366F1,100:16161A&height=56&section=header&text=Certifications&fontSize=26&fontColor=F7F8F8" alt="certs"/>
-
-<br><br>
-
-Actively pursuing **AWS Cloud Practitioner** and advanced serverless architecture credentials.
-
-<br><br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:5E6AD2,100:16161A&height=56&section=header&text=Contact&fontSize=26&fontColor=F7F8F8" alt="contact"/>
-
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6366F1,100:16161A&height=50&section=header&text=Get%20In%20Touch&fontSize=22&fontColor=F7F8F8" alt="Contact" width="100%"/>
 
 <div align="center">
 
-Open to full-time opportunities, freelance projects, and ambitious product collaborations.
+### 💼 Looking for a Dedicated IT Support or Cloud Support Engineer?
+
+I am actively interviewing and ready to contribute immediately. Open to relocation to **Dubai, UAE** or remote IT operations opportunities worldwide.
+
+<br>
+
+[![Email Me](https://img.shields.io/badge/Email-mohamedfaisal.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedfaisal.dev@gmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Faisal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-faisal-dev)
+[![Visit Portfolio](https://img.shields.io/badge/Portfolio-mohamedfaisal.dev-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohamedfaisal.dev)
+[![Call or WhatsApp](https://img.shields.io/badge/Phone-+91_73588_74293-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917358874293)
 
 <br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-mohamedfaisal--dev-5E6AD2?style=flat&logo=github&logoColor=F7F8F8&labelColor=16161A)](https://github.com/mohamedfaisal-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamed--faisal--dev-6366F1?style=flat&logo=linkedin&logoColor=F7F8F8&labelColor=16161A)](https://linkedin.com/in/mohamed-faisal-dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-mohamedfaisal.dev-5E6AD2?style=flat&logo=googlechrome&logoColor=F7F8F8&labelColor=16161A)](https://mohamedfaisal.dev)
-[![Email](https://img.shields.io/badge/Email-mohamedfaisal.dev@gmail.com-6366F1?style=flat&logo=gmail&logoColor=F7F8F8&labelColor=16161A)](mailto:mohamedfaisal.dev@gmail.com)
-
-</div>
-
-<br><br><br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=glass&color=gradient&customColorList=18,5E6AD2,6366F1,0A0A0B&height=72&section=footer&text=Building%20products%20that%20create%20real-world%20impact.&fontSize=15&fontColor=8A8F98" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=glass&color=gradient&customColorList=18,5E6AD2,6366F1,0A0A0B&height=65&section=footer&text=Resolving%20incidents%2C%20securing%20systems%2C%20and%20keeping%20cloud%20infrastructure%20resilient.&fontSize=14&fontColor=8A8F98" alt="Footer Banner" width="100%"/>
 
 </div>
